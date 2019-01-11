@@ -1,6 +1,6 @@
-#hash-shalon pré-requisitos
+# hash-shalon pré-requisitos
 
-#Bibliotecas ultilizadas:
+# Bibliotecas ultilizadas:
 
 º hashlib - Não vem instalada
 
@@ -10,13 +10,13 @@
 
 º time - Já vem instalado
 
-#Como instalar a biblioteca HASHLIB:
+# Como instalar a biblioteca HASHLIB:
 
 ° A maioria já vem por padrão instalada...
 
 ° pip install hashlib
 
-#Modo de uso...
+# Modo de uso...
 
 ° Use: python3 hash-shalon.py wordlist.txt
 
